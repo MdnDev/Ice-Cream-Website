@@ -1,0 +1,29 @@
+h1, h2{
+    text-align: center;
+    color: rgb(185, 229, 230);
+}
+
+nav {
+    background-color: rgb(185, 229, 230);
+    
+    
+}
+
+.strawberry {
+    background-color: rgb(255, 195, 184);
+    
+}
+
+.rosemary {
+    background-color: rgb(255, 179, 200);
+}
+
+nav li {
+    color: white;
+}
+#map {
+    width: 100%;
+    height: 100%;
+    
+}
+
